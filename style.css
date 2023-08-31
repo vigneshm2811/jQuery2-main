@@ -1,0 +1,25 @@
+img {
+    height: 200px;
+
+}
+
+.row {
+    width: 90%;
+}
+
+.card {
+    margin: 2px;
+}
+
+#fstcont,
+#cart {
+    margin-left: 80px;
+}
+
+#thrd-disp,
+#h1,
+#back,
+#Buy {
+    display: none;
+
+}
